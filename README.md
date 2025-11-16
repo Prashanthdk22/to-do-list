@@ -1,3 +1,5 @@
+To-DO list application console-based
+
 This is a simple console-based To-Do List application that I created using Python. The main idea of this project is to let the user add tasks, view all the tasks, and remove tasks whenever they want. I built this project to practice basic Python concepts like lists, loops, conditions, and user input handling.
 
 The program starts by showing a small menu with four options: add a task, view tasks, remove a task, and exit. I used a while True loop so that the menu keeps appearing until the user chooses to exit. This makes the program run continuously without restarting every time.
